@@ -1,2 +1,2 @@
 # CricketIndVsPak
-A cricket game designed using HTML, CSS and Java.
+A cricket game designed using HTML, CSS and JavaScript
